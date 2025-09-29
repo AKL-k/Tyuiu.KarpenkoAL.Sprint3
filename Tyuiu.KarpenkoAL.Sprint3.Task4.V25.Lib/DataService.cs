@@ -11,7 +11,7 @@ namespace Tyuiu.KarpenkoAL.Sprint3.Task4.V25.Lib
             {
                 if (x == 0)
                 {
-                    continue;
+                    break;
                 }
                 else
                 {

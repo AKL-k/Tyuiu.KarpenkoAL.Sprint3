@@ -15,7 +15,7 @@ namespace Tyuiu.KarpenkoAL.Sprint3.Task4.V25.Test
 
             double res = ds.Calculate(startValue, stopValue);
 
-            double wait = 44.313;
+            double wait = 8.995;
             Assert.AreEqual(wait, res);
         }
     }
